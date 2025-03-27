@@ -106,7 +106,7 @@ Nếu bạn có thắc mắc, hãy liên hệ với mình qua facebook: [Vũ Ngu
 
 ---
 
-*Built with 💻 by [Your Name](https://github.com/vunguyen207) | Last updated: March 27, 2025*
+*Built with 💻 by [vunguyen207](https://github.com/vunguyen207) | Last updated: March 27, 2025*
 
 ---
 
