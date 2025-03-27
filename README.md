@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Windows Stealth Bot
+# 🕵️‍♂️ Windows Data Extractor
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Status](https://img.shields.io/badge/Status-Experimental-red.svg)
 
