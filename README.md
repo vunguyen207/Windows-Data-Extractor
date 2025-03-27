@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Status](https://img.shields.io/badge/Status-Experimental-red.svg)
 
-**Windows-Data-Extractor** là một script Python được thiết kế để chạy ẩn trên hệ điều hành Windows, cung cấp các tính năng như keylogging, trích xuất mật khẩu trình duyệt, chụp ảnh màn hình, và điều khiển từ xa thông qua Telegram. Đây là một công cụ dành cho mục đích nghiên cứu bảo mật và thử nghiệm, không khuyến khích sử dụng cho các hành vi trái phép.
+**Windows Data Extractor** là một script Python được thiết kế để chạy ẩn trên hệ điều hành Windows, cung cấp các tính năng như keylogging, trích xuất mật khẩu trình duyệt, chụp ảnh màn hình, và điều khiển từ xa thông qua Telegram. Đây là một công cụ dành cho mục đích nghiên cứu bảo mật và thử nghiệm, không khuyến khích sử dụng cho các hành vi trái phép.
 
 ---
 
@@ -112,4 +112,4 @@ Nếu bạn có thắc mắc, hãy liên hệ với mình qua facebook: [Vũ Ngu
 
 ## Lưu ý cuối cùng.
 
-Bạn tuyệt đối không được sử dụng script này để thực hiện bất kỳ hành vi nào vi phạm pháp luật hoặc nhằm mục đích trục lợi dưới bất kỳ hình thức nào. vunguyen207 cùng tất cả các cá nhân từng có đóng góp vào repository này sẽ KHÔNG CHỊU BẤT KỲ TRÁCH NHIỆM PHÁP LÝ NÀO đối với mọi hành động, hậu quả hoặc thiệt hại phát sinh từ việc bạn sử dụng script này từ khi script được tạo nên cho mục đích học tập và thử nghiệm.
+Bạn tuyệt đối không được sử dụng Windows Data Extractor để thực hiện bất kỳ hành vi nào vi phạm pháp luật hoặc nhằm mục đích trục lợi dưới bất kỳ hình thức nào. vunguyen207 cùng tất cả các cá nhân từng có đóng góp vào repository này sẽ KHÔNG CHỊU BẤT KỲ TRÁCH NHIỆM PHÁP LÝ NÀO đối với mọi hành động, hậu quả hoặc thiệt hại phát sinh từ việc bạn sử dụng Windows Data Extractor từ khi script được tạo nên cho mục đích học tập và thử nghiệm.
